@@ -1,2 +1,2 @@
 # Propulsion-
-This repository contains the code and supporting materials used to analyze and interpret data from multiple propulsion tests.
+This repository contains code and supporting materials for analyzing and interpreting data from multiple propulsion tests.
